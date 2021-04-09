@@ -1,27 +1,31 @@
 /*estilo botones nav*/
-#buttonI{
+#btnprueba{
     background-color: #8D5132;
     border-color: #8D5132;
 }
-#buttonI:hover{
+#btnprueba:hover{
     background-color: #A96644;
 }
 
-/*estilo footer
+.imagen {
+    width: 1000px;
+    height: 600px;
+    display: block ;
+    margin: auto;
+    margin-top: 5px;
+}
+
+
 .footer {
     position:relative;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: #b97d5f;
-    color: #000000;
+    background-color: #8D5132;
+    color: #ffffff;
     text-align: center;
     padding-top: 10px;
     padding-bottom:5px;
-}*/
-
-.pie{
-    background-color: brown;
 }
 
 /* estilos de titulos*/
@@ -45,19 +49,6 @@ h3 {
     text-align: justify;
 }
 
-.imagen {
-    width: 1000px;
-    height: 600px;
-    display: block ;
-    margin: auto;
-    margin-top: 5px;
-}
-
-
-.fondo {
-    background-color: #ffffff;
-}
-
 *{
     margin:0;
     padding: 0;
@@ -70,7 +61,6 @@ h3 {
     margin:100px 0 15px 0;
     font-weight: 300;
     font-size:  x-large;
-
 }
 
 .linea{
